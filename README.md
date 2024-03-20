@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Naukri-automatic-job-apply-bot
+# Naukri-automatic-job-apply-bot (Note: Only chrome version is working as of now.)
 Automation that applies to jobs on Naukri.com easily for fatster job hunting and it uses Selenium package for browser automation.
 
 ## Steps to run the Mozilla file

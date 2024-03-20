@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 @echo off
-"E:\me\codes\python\random_projects\naukri\Naukri-autoapply-bot\Naukri-chrome.py"
-=======
-@echo off
-"E:\me\codes\python\random_projects\naukri\Naukri-autoapply-bot\Naukri-chrome.py"
->>>>>>> fafa736986f91e9170ac530fbe69061829329f16
+call "C:\Users\Sigmoid\Desktop\rahul\projects\naukri_auto_apply-main\venv\Scripts\activate"
+python "C:\Users\Sigmoid\Desktop\rahul\projects\naukri_auto_apply-main\Naukri-chrome.py"
 pause
